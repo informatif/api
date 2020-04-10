@@ -34,7 +34,7 @@
     "koa": "2.11.0",
     "koa-compress": "3.0.0",
     "koa-helmet": "5.2.0",
-    "koa-router": "7.4.0",
+    "koa-router": "8.0.8",
     "lru-cache": "5.1.1",
     "node-fetch": "2.6.0",
     "rss-parser": "3.7.6"
