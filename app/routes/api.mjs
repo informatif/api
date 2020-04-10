@@ -1,15 +1,15 @@
-import Router from "koa-router";
+import Router from "@koa/router";
 import {
   handleGitHub,
   handleGlobalNews,
   handleHackerNews,
   handleMedium,
   handleReddit,
-  handleStackOverflow
-} from "../handlers";
+  handleStackOverflow,
+} from "../handlers.mjs";
 
 const api = new Router({
-  prefix: "/api/v1"
+  prefix: "/api/v1",
 });
 
 api.get("/hn", async (ctx, _) => {
