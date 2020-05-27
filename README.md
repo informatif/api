@@ -1,5 +1,7 @@
 # Informatif API
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zwliew/informatif-api.svg)](https://greenkeeper.io/)
+
 The API for Informatif. The main website is hosted [here](https://informatif.netlify.com/).
 
 ## Setup instructions
